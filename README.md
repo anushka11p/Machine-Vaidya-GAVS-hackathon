@@ -144,14 +144,6 @@ We're visiting powerloom units, flour mills and machine shops to answer the brie
 | 8–15 Dec | Pilot in 1–2 units, measure false alarms and warning lead time |
 | 27 Dec 2026 | Grand finale and live demo at Bangalore Palace |
 
-## Team
-
-**[Team name]**
-
-- [Name] · [Role]
-- [Name] · [Role]
-- [Name] · [Role]
-- [Name] · [Role]
 
 ## Acknowledgements
 
